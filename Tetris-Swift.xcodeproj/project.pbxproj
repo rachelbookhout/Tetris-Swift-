@@ -21,6 +21,7 @@
 		CF1109A41A92828200FC1077 /* theme.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CF11099F1A92828200FC1077 /* theme.mp3 */; };
 		CF1109A61A96E15A00FC1077 /* 2D.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF1109A51A96E15A00FC1077 /* 2D.swift */; };
 		CF1109A81A9A94EE00FC1077 /* Block.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF1109A71A9A94EE00FC1077 /* Block.swift */; };
+		CF1109AA1A9EBA1400FC1077 /* shape.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF1109A91A9EBA1400FC1077 /* shape.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -52,6 +53,7 @@
 		CF11099F1A92828200FC1077 /* theme.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = theme.mp3; sourceTree = "<group>"; };
 		CF1109A51A96E15A00FC1077 /* 2D.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = 2D.swift; sourceTree = "<group>"; };
 		CF1109A71A9A94EE00FC1077 /* Block.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Block.swift; sourceTree = "<group>"; };
+		CF1109A91A9EBA1400FC1077 /* shape.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = shape.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				CF1109831A92814400FC1077 /* LaunchScreen.xib */,
 				CF1109741A92814400FC1077 /* Supporting Files */,
 				CF1109A71A9A94EE00FC1077 /* Block.swift */,
+				CF1109A91A9EBA1400FC1077 /* shape.swift */,
 			);
 			path = "Tetris-Swift";
 			sourceTree = "<group>";
@@ -254,6 +257,7 @@
 				CF1109A81A9A94EE00FC1077 /* Block.swift in Sources */,
 				CF11097D1A92814400FC1077 /* GameViewController.swift in Sources */,
 				CF1109771A92814400FC1077 /* AppDelegate.swift in Sources */,
+				CF1109AA1A9EBA1400FC1077 /* shape.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
